@@ -1,0 +1,1 @@
+import{a as s,b as e}from"./p-cc19e770.js";s().then(s=>e([["p-0vdsyonk",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],{resourcesUrl:s}));
